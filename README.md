@@ -42,7 +42,7 @@ Este projeto é resultado do meu nono desafio de código no <a href="https://roc
 
 As seguintes tecnologias foram utilizadas nesse projeto:
 
-- [NodeJS](https://nodejs.org/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [CRUD](https://pt.stackoverflow.com/questions/359961/o-que-caracteriza-um-projeto-crud-b%C3%A1sico#:~:text=CRUD%20%C3%A9%20o%20acr%C3%B4nimo%20da,em%20Banco%20de%20Dados%20Relacionais.)
 - [API](https://canaltech.com.br/software/o-que-e-api/#:~:text=API%20%C3%A9%20um%20conjunto%20de,Interface%20de%20Programa%C3%A7%C3%A3o%20de%20Aplicativos%22.)
